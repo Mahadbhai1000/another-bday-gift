@@ -83,8 +83,6 @@ const TYPED_LINES = [
   "...",
   "> so i made you this computer program",
   "...",
-  "theres also a playlist that i made ask me for it (i couldnt figure out how to embed it heree :P)",
-  "...",
   "٩(◕‿◕)۶ ٩(◕‿◕)۶ ٩(◕‿◕)۶"
 ];
 const TYPED_CHAR_DELAY = 100;
